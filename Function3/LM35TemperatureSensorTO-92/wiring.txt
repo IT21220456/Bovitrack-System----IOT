@@ -1,0 +1,4 @@
+on flat side 
+1pin - vcc
+2pin - data(vp)
+3rd pin - gnd
