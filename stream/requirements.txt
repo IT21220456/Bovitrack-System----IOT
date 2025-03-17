@@ -1,0 +1,8 @@
+firebase-admin==6.6.0
+opencv-python==4.11.0.86
+Flask==3.1.0
+pyngrok==7.2.3
+joblib==1.4.2
+xgboost==2.1.4
+scikit-learn==1.6.1
+speedtest-cli==2.1.3
