@@ -1,0 +1,5 @@
+VCC - 3.3v
+G - GND
+G - GND
+Po - D32
+
